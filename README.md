@@ -1,3 +1,8 @@
+## Overview
+
+This project focuses on utilizing a private network, such as Polygon Edge, for deploying fractionalized NFTs. The README provides details on how to use this network effectively.
+
+
 ## Installation
 
 Use the node package manager [npm](https://docs.npmjs.com/cli/v8/commands/npm-install) to install dependencies.
